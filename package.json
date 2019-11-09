@@ -1,6 +1,8 @@
 {
   "name": "restaurants",
+  "author": "Mike AUBENAS",
   "version": "0.1.0",
+  "description": "Little React project for a JS course.",
   "private": true,
   "dependencies": {
     "react": "^16.11.0",
