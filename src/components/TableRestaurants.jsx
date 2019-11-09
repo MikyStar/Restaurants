@@ -16,7 +16,6 @@ export const TableRestaurants = ( { restos, onClick, onDelete } ) =>
                             onDelete={ id => onDelete( id ) }
                         />
                     );
-
         });
 
         return jsx;
@@ -30,6 +29,7 @@ export const TableRestaurants = ( { restos, onClick, onDelete } ) =>
 					<thead>
 						<tr>
 							<th>Nom</th>
+							<th>Cuisine</th>
 							<th>Supprimer</th>
 						</tr>
 					</thead>
