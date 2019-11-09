@@ -3,7 +3,6 @@
 ## Technologies
 
 - React
-- TypeScript
 
 ## Running
 
